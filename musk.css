@@ -1,0 +1,10 @@
+.box>.leftBox>img {
+	align-self: left;
+}
+section>#box>.leftbox>img{
+	align-self: center;
+}
+
+iframe{
+	align-self: center;
+}
