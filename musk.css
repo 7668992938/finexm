@@ -1,3 +1,6 @@
+.box>.leftBox>#elon{
+	align-self: left;
+}
 .box>.leftBox>img {
 	align-self: left;
 }
@@ -7,4 +10,13 @@ section>#box>.leftbox>img{
 
 iframe{
 	align-self: center;
+}
+.centerbox>iframe{
+	align-self: center;
+}
+.box>.leftBox>#openAI{
+	align-self: left;
+
+}
+li{color:red;
 }
